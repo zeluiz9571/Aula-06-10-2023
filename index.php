@@ -1,5 +1,6 @@
 <?php
 
+    //required
     include "teste.php"; // Chamando o código externo teste.php
 
 ?>
